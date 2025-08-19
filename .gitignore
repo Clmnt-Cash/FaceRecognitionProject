@@ -1,1 +1,3 @@
 data/
+training_checkpoints/ckpt.pth
+training_checkpoints/ckpt.pth_epoch
